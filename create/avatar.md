@@ -2,7 +2,6 @@
 description: What is an avatar & how do I get one ?
 cover: ../.gitbook/assets/squad.jpeg
 coverY: 0
-layout: editorial
 ---
 
 # 👨💼 Avatar
