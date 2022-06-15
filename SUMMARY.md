@@ -13,7 +13,7 @@
 * [🏆 Leaderboard](engage/leaderboard.md)
 * [📜 Missions](engage/missions.md)
 * [Legendaries](engage/legendaries.md)
-* [🎪 Events](engage/events.md)
+* [🎪 Events & Branded Items](engage/events.md)
 
 ## Earn
 
