@@ -18,7 +18,8 @@
 ## Earn
 
 * [🎁 Airdrops & rewards](earn/airdrops-and-rewards.md)
-* [💰 Economy](earn/economy.md)
+* [💰 Economy Basics](earn/economy.md)
+* [📐 Economy Design](earn/economy-design.md)
 * [🧠 Neuron](earn/neuron.md)
 
 ## Vision
