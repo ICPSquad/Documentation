@@ -1,13 +1,12 @@
 ---
-description: Where do we go ?
+description: Where do we go from here?
 ---
 
 # 🌱 Roadmap
 
-This is still a long way ahead, we will have to work hard to get there but eventually we would like to turn the game into an open internet service run by a DAO (Decentralised Autonomous Organisation) using the SNS which will gamify & unify the entire Internet Computer ecosystem, and provide an incentive tool any project can use to drive engagement for their dApps.&#x20;
+We still have a long way to go, and we will have to work hard to get there, but eventually we would like to turn the game into an open internet service run by a DAO (Decentralised Autonomous Organisation) using the SNS which will gamify the entire Internet Computer ecosystem and provide an incentive tool any project can use to drive engagement for their dApps.&#x20;
 
-\
-This means that eventually, ICP Squad NFT will become a collaborative digital art platform where projects can distribute branded virtual merchandise that has utility for their dApp. This will give developers the ability to quickly attract new users from the community.
+This means that eventually, ICP Squad NFT will become a collaborative digital art platform where projects can distribute branded virtual merchandise that has utility for their dApp. This will give developers the ability to quickly attract new users from the community (without tokens).
 
 For users, it simply means the Internet Computer will be a blockchain where anyone can easily start earning rewards just by using dApps built on it.
 
@@ -23,12 +22,12 @@ For users, it simply means the Internet Computer will be a blockchain where anyo
 
 * Early economy stabilisation and experimentation (Ongoing).
 * Activity tracking & missions with partners (Ongoing).
-* ICP Squad Neuron rewards (Ongoing).
-* Legendary accessory auctions (Ongoing).
+* dSquad Neuron rewards (Ongoing).
+* Legendary Accessory auctions (Ongoing).
 
 ### Season 1&#x20;
 
-* Artwork refresh & supplemental artwork improvement.
+* Artwork refresh & supplemental artwork added.
 * Properties and multi-level character minting opened & applied to leaderboard.
 * More advanced economy, gameplay features, & integrations.
 * More advanced accessories bonus and properties.
