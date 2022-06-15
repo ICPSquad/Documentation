@@ -1,10 +1,10 @@
 ---
-description: How to increase my rank ? How is my score calculated ?
+description: How to increase my rank? How is my score calculated?
 ---
 
 # 🏆 Leaderboard
 
-The gameplay is divided in **contests**, for each contest the scores of all the participants are set to 0 during the first day and then the goal is to cumulate the most points until the end of the contest. After the contest is over rewards are sent out based on your rank.
+The gameplay is divided into monthly **contests**, for each contest the scores of all the participants are set to 0 during the first day and then the goal is to cumulate the most points until the end of the contest. After the contest is over rewards are sent out based on your rank.
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-08 à 18.15.48.png>)
 
@@ -18,9 +18,9 @@ Your total score is the sum of 2 different scores.
 
 * **Style score**
 
-This score is determined by the accessory you are wearing on your avatar for this period. This represents an approximation of how much **money** you have invested in the game.
+This score is determined by the accessories you were wearing on your avatar during each day of the contest.
 
-Your style score during this period is calculated by the daily sum of all the stars of the accessories you are wearing.&#x20;
+Your style score is calculated by the daily sum of all the stars of the accessories you are wearing.&#x20;
 
 _👨‍🏫 For instance if the contest lasts for 30 days and you are wearing 2 accessories during this whole period. The first one being the **Helicap**  & the other one being the **Lab coat**._
 
