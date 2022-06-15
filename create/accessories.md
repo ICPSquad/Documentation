@@ -1,5 +1,5 @@
 ---
-description: What is an accessory ? How to create one ? What are the benefits ?
+description: What is an accessory? How to create one? What are the benefits?
 ---
 
 # 👑 Accessories
