@@ -1,12 +1,12 @@
 ---
-description: How to complete missions ? What are the benefits ?
+description: How to complete missions? What are the benefits?
 ---
 
 # 📜 Missions
 
-Missions are a very important piece of gameplay to bring us closer to the engage-to-earn aspect of this game.
+Missions are a very important aspect of gameplay to bring us closer to the long term engage-to-earn concept of our project.
 
-A **mission** is an action that you need to take, usually in one application of the ecosystem. It can be as simple as making a trade or a swap on a DEX or it can goes as far as resolving a complex puzzle in a game. In the future once a missions has been completed it might transform into an **action** which will give you rewards in terms of points every time you do it again to incentivise constant engagement.
+A **mission** is an action that you need to take in an Internet Computer dapp. It can be as simple as making a trade or a swap on a DEX or it can go as far as solving a complex puzzle in a game. In the future once a missions has been completed it might transform into an **action** which will give you rewards in terms of points every time you do it again to incentivise constant engagement.
 
 Some missions might only appears during **events**.
 
