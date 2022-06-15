@@ -4,15 +4,15 @@
 
 ## Create
 
-* [👨💼 Avatar](create/avatar.md)
+* [Avatar](create/avatar.md)
 * [👑 Accessories](create/accessories.md)
-* [🧑🍳 Recipes ](create/recipes.md)
+* [Recipes ](create/recipes.md)
 
 ## Engage
 
 * [🏆 Leaderboard](engage/leaderboard.md)
 * [📜 Missions](engage/missions.md)
-* [🦸♂ Legendaries](engage/legendaries.md)
+* [Legendaries](engage/legendaries.md)
 * [🎪 Events](engage/events.md)
 
 ## Earn
