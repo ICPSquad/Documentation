@@ -37,7 +37,7 @@ For users, it simply means the Internet Computer will be a blockchain where anyo
 * Planning for DAO begins.
 * Contest for season 2 theme and artist.
 
-### Season 2 +
+### Season 2+
 
 * Introduction of a completely new artwork & theme by a new artist.
 * Advanced mission types&#x20;
