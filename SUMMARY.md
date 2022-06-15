@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to the squad !](README.md)
+* [👋 Welcome to the squad!](README.md)
 
 ## Create
 
