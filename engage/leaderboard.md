@@ -4,7 +4,7 @@ description: How to increase my rank? How is my score calculated?
 
 # 🏆 Leaderboard
 
-The gameplay is divided into monthly **contests**, for each contest the scores of all the participants are set to 0 during the first day and then the goal is to cumulate the most points until the end of the contest. After the contest is over rewards are sent out based on your rank.
+The gameplay is divided into monthly **contests**. The scores of all the participants are set to 0 during the first day and then the goal is to increase your rank on the leaderboard by increasing your total score until the end of the contest. After the contest is over rewards are sent out based on your rank.
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-08 à 18.15.48.png>)
 
