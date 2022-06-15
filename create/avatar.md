@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/squad.jpeg
 coverY: 0
 ---
 
-# 👨💼 Avatar
+# Avatar
 
 ### Dual NFT-system&#x20;
 
