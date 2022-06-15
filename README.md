@@ -5,7 +5,7 @@ description: >-
   decentralized applications.
 ---
 
-# 👋 Welcome to the squad!
+# 👋 Welcome to dSquad!
 
 dSquad is a contributor-run community with aspirations to eventually convert into a DAO.
 
