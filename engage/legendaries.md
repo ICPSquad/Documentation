@@ -2,7 +2,7 @@
 description: Flex only.
 ---
 
-# 🦸♂ Legendaries
+# Legendaries
 
 You might notice that some characters looks different. They are called **legendaries**, and they are really cool.
 
