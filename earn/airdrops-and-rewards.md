@@ -18,9 +18,9 @@ This value ranges from 48% of the supply for the most common material (Cloth) to
 
 Every month the total value of materials that are airdropped will be determined according to the burn rate of our economy. If more people are wearing out accessories, more rewards will be distributed. This will keep our economy balanced from excess inflation/deflation while continuously spreading out the supply to as many participants as possible.
 
-### _Partner NFTs_
+### _Collaborations_
 
-Being part of the biggest community hub on the Internet Computer, we are regularly partnering with other projects on the IC, most of them like giving away NFTs. **Top ranked players will get more chance to win these limited airdrops.**&#x20;
+Being part of the biggest community hub on the Internet Computer, we are regularly collaborating with other projects on the IC, most of them like giving away NFTs. **Top ranked players will get more chance to win these limited airdrops.**&#x20;
 
 Here are some of the projects we collaborated with in the past; more is to come.
 
