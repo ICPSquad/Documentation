@@ -16,7 +16,7 @@ Each Avatar can be equipped with up to 5 accessories corresponding to the 5 foll
 * **Face**  👦 : Painting face, facial mask, gas mask, facial tattoos... Anything that can be put on your face (expect glasses).
 * **Glasses** 👓 : Lab glasses, monocle, sunglasses. To protect your eyes.
 * **Body** 👔 : Shirts, jackets, necklaces, ties, sweat, costumes and more.&#x20;
-* **Miscellaneous** 🌈 :  This slot was created to enable unlimited creativity. It can corresponds to a special background,&#x20;
+* **Miscellaneous** 🌈 :  This slot was created to leave room for any creative ideas we might have which wouldn't fit the other slots. This season it consists of 2 different Avatar backgrounds, but who knows what we'll add in the future!&#x20;
 
 ![A fully equipped avatar.](../.gitbook/assets/Capture\_decran\_2022-05-15\_a\_19.25.02.png)
 
