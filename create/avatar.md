@@ -1,5 +1,5 @@
 ---
-description: What is an avatar & how do I get one ?
+description: What is an avatar & how do I get one?
 cover: ../.gitbook/assets/squad.jpeg
 coverY: 0
 ---
