@@ -4,25 +4,23 @@ cover: ../.gitbook/assets/squad.jpeg
 coverY: 0
 ---
 
-# Avatar
+# 👨💼 Avatar
 
-### Dual NFT-system&#x20;
+### Dual NFT-system
 
-This project has a unique **dual-NFT** approach with characters and accessories.&#x20;
+This project has a unique **dual-NFT** approach with characters and accessories.
 
-Characters are composable and dynamic NFTs, meaning they can evolve, change their properties and wear accessories that will impact their visual appearance.&#x20;
+Characters are composable and dynamic NFTs, meaning they can evolve, change their properties and wear accessories that will impact their visual appearance.
 
 ![Punk boy](../.gitbook/assets/Punk-boy-gif.gif)
 
-
-
-Characters are avatars that you can fully customise with a different assortiments of visual properties. They are stored as NFTs using the Internet Computer blockchain.&#x20;
+Characters are avatars that you can fully customise with a different assortiments of visual properties. They are stored as NFTs using the Internet Computer blockchain.
 
 Minting your avatar is your ticket to join dSquad and get on the monthly leaderboards so that you can be eligible to win airdrops!
 
-### Low barrier to entry&#x20;
+### Low barrier to entry
 
-This project aims to be inclusive and promote engagement on the Internet Computer, so it needs to stay accessible to anyone who want to support and join the squad. We understand that speculation is an inherent part of crypto-economies but this game will be designed so that everyone can play, regarding of their own economical means.&#x20;
+This project aims to be inclusive and promote engagement on the Internet Computer, so it needs to stay accessible to anyone who want to support and join the squad. We understand that speculation is an inherent part of crypto-economies but this game will be designed so that everyone can play, regarding of their own economical means.
 
 Keeping the floor price of characters low, we are offering everyone the opportunity to get a unique avatar on the IC that they'll be able to use across multiple dApps.
 
@@ -55,21 +53,21 @@ Pick a category on the right and choose among the several different options offe
 
 ![I'll remember that look.](<../.gitbook/assets/Capture d’écran 2022-06-07 à 17.38.06.png>)
 
-If you're not feeling inspired, you can get some suggestions using the **green shuffle button.** &#x20;
+If you're not feeling inspired, you can get some suggestions using the **green shuffle button.**
 
 Take your time, don't forget that your avatar will be used in several places to represent you, so pick wisely!
 
 ### **Step 3 : Pay the minting fee**
 
-Once you ready, click and head over to the next step. This is where you'll need to login with your wallet.&#x20;
+Once you ready, click and head over to the next step. This is where you'll need to login with your wallet.
 
-After being logged in, you'll be prompted to pay **1 ICP** to continue further.&#x20;
+After being logged in, you'll be prompted to pay **1 ICP** to continue further.
 
-_Note : At this point If you already paid during the preorder but never had a chance to mint your avatar, you can skip the payment and click on the second button. If you have no idea what the preorder is than does not apply to you._&#x20;
+_Note : At this point If you already paid during the preorder but never had a chance to mint your avatar, you can skip the payment and click on the second button. If you have no idea what the preorder is than does not apply to you._
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-07 à 17.45.40.png>)
 
-Then you will need to authorize the payment using your wallet. Make sure your balance is enough to cover the transaction fee (at least 1.0001 ICP needs to be in your wallet).&#x20;
+Then you will need to authorize the payment using your wallet. Make sure your balance is enough to cover the transaction fee (at least 1.0001 ICP needs to be in your wallet).
 
 After confirmation the system will process your payment. This step only requires approximately 10 seconds.
 
@@ -77,15 +75,15 @@ After confirmation the system will process your payment. This step only requires
 
 ### **Step 4 : Mint your Avatar**
 
-After the payment has been processed you'll need to confirm one last time to send the mint request. ****&#x20;
+After the payment has been processed you'll need to confirm one last time to send the mint request. \*\*\*\*
 
-![I](<../.gitbook/assets/Capture d’écran 2022-06-07 à 18.20.46.png>) ![](<../.gitbook/assets/Capture d’écran 2022-06-07 à 18.18.03 (1).png>)
+![I](<../.gitbook/assets/Capture d’écran 2022-06-07 à 18.20.46.png>) ![](<../.gitbook/assets/Capture d’écran 2022-06-07 à 18.18.03 (1) (1).png>)
 
 As in the picture, you will likely see a warning message from your wallet. This is a common warning message we are trying to work with the wallet provider to get removed.
 
 ### **Step 5 : Receive your Avatar in your wallet.**
 
-After waiting a few seconds, you will see your avatar appearing in your wallet under the "ICP Squad" section.&#x20;
+After waiting a few seconds, you will see your avatar appearing in your wallet under the "ICP Squad" section.
 
 The number that you will see corresponds to the minting number of your avatar.
 
@@ -93,15 +91,15 @@ The number that you will see corresponds to the minting number of your avatar.
 
 ### **Next steps**
 
-You are now officially part of the squad, welcome!&#x20;
+You are now officially part of the squad, welcome!
 
 Creating your avatar is only the first step. Here's a few suggestion for your next move.
 
 * Join our [Discord.](https://discord.gg/JfRvPTpceS)
-* Share your avatar on Twitter.&#x20;
+* Share your avatar on Twitter.
 * Take a look at the mission board.
 * Learn about accessories and scores.
 
-### Potential issues&#x20;
+### Potential issues
 
 If you are experiencing any issue during the process. Please head over to our [feedback channel ](https://discord.gg/CZ9JgnaySu)and post your request. Make sure to respect the format.

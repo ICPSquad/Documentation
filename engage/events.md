@@ -14,19 +14,19 @@ The internal economy is based on 6 materials. These materials are the foundation
 
 ![Cloth](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.03.11 (1).png>) ![Wood](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.03.20 (1).png>) ![Metal](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.03.30.png>) ![Glass](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.03.40 (1).png>) ![Circuit](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.03.53 (1).png>) ![Dfinity-stone](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.04.07.png>)
 
-However, there will also be **brand essences** & **branded accessories**.&#x20;
+However, there will also be **brand essences** & **branded accessories**.
 
 An essence is a special type of material which can be used to mint branded accessories. This gives provides a way to integrate other brands within ecosystems. Here's an example with two of the most popular projects on the Internet Computer: **Cronic** & **ICPunk**.
 
 ![Cronic](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.04.27.png>) ![ICPunk](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.04.39.png>)
 
-These essences will be airdropped during **contests or events hosted by our partner. The goal of those events is to incentivise squad members to discover and play around with dApps of those ecosystems.**&#x20;
+These essences will be airdropped during **contests or events hosted by our partner. The goal of those events is to incentivise squad members to discover and play around with dApps of those ecosystems.**
 
-These materials can later be used to create **branded accessories**. These accessories have all the properties of normal accessories, but they have new artwork and a different card template that makes them super distinctive.&#x20;
+These materials can later be used to create **branded accessories**. These accessories have all the properties of normal accessories, but they have new artwork and a different card template that makes them super distinctive.
 
 ![👀](<../.gitbook/assets/Capture d’écran 2022-06-09 à 06.14.00.png>)
 
-You will also notice that the logo of the accessory is part of the card.&#x20;
+You will also notice that the logo of the accessory is part of the card.
 
 The **recipes** for these branded accessories require brand essences, and to collect those players will need to engage with the ecosystem. This is the best way to show your support for a specific community or a cool new dapp.
 
@@ -68,7 +68,7 @@ If you want to learn more it here is a few ressources.
 
 Now let's flex on a few way cool ways we used the Internet Computer and this game to make it even better. 😎
 
-**Legendary avatars**&#x20;
+**Legendary avatars**
 
 All the mentors that participated and the winners of the final contest were offered legendary avatars. These are custom made by our artist to look like they do in real life!
 
@@ -84,22 +84,22 @@ Those diplomas were minted after the event to all students that graduated from t
 
 ![A student diploma.](<../.gitbook/assets/Capture d’écran 2022-06-09 à 07.14.48.png>)
 
-Using the application each student is free to set the color on the border of his diploma and use it as a profile picture on DSCVR.&#x20;
+Using the application each student is free to set the color on the border of his diploma and use it as a profile picture on DSCVR.
 
 * If you see a diploma pulsing the color gold 🟨, that means they are open to receiving job offers for IC development.
 * If you see a diploma pulsing the color blue 🟦, that means they are looking to hire an IC dev.
 
-This diploma is bounded to the wallet it was minted into, meaning students cannot sell it. This makes it one of the first _**proof of dev skill.**_&#x20;
+This diploma is bounded to the wallet it was minted into, meaning students cannot sell it. This makes it one of the first _**proof of dev skill.**_
 
-_It will be interesting to see if such awards can be used later to help us structure the community and put the skills of everyone at good use. We know for instance that many proposals on the NNS require technical knowledge to be carefully reviewed. Perhaps Motoko Bootcamp graduates to help build a governance council for the squad and collaborate on technical decisions?_&#x20;
+_It will be interesting to see if such awards can be used later to help us structure the community and put the skills of everyone at good use. We know for instance that many proposals on the NNS require technical knowledge to be carefully reviewed. Perhaps Motoko Bootcamp graduates to help build a governance council for the squad and collaborate on technical decisions?_
 
 **Special accessories**
 
 To make things even more spicy, graduates where offered special accessories that they can equip on their character: the **Mortaboard hat** (all graduates) & **Bootcamp soldier** (3rd runner ups).
 
-![](<../.gitbook/assets/Capture d’écran 2022-06-09 à 07.25.54 (1).png>) ![](<../.gitbook/assets/Capture d’écran 2022-06-09 à 07.26.06 (2).png>)
+![](<../.gitbook/assets/Capture d’écran 2022-06-09 à 07.25.54 (1) (1).png>) ![](<../.gitbook/assets/Capture d’écran 2022-06-09 à 07.26.06 (2).png>)
 
-Those accessories are both 5 stars accessories, they can be traded or equipped on your avatar.&#x20;
+Those accessories are both 5 stars accessories, they can be traded or equipped on your avatar.
 
 The only difference is that they cannot be minted the traditional way. This will likely make them highly rare as they has been only 50 graduated students. 🤯
 
@@ -120,11 +120,10 @@ Here are some of the things that can be done in this portal.
 * **🧑‍💼 Find or Offer Mentorship** | Let's support one another and build lasting relationships!
 * **💭 Brainstorm Deep Topics** | How IC tech might be used to impact DAO governance, IT security, defi, social change, etc.
 
-**Missions**&#x20;
+**Missions**
 
 Students didn't really knew it at the time they participated in the camp, but in fact they were participating in one of the first **mission ever**!
 
-_A mission is an action that you have to take, something that you have to collect, or something that you have to learn._&#x20;
+_A mission is an action that you have to take, something that you have to collect, or something that you have to learn._
 
 By validating their participation in this camp, students will earn points in the leaderboard. This will be a temporary boost in their score. The name of this mission is **Motoko School.**
-

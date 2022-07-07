@@ -6,7 +6,7 @@ description: It's time to get some free stuff!
 
 Rewards are sent out monthly after the end of each contest. The distribution is based on the ranks of each player, with a fair distribution curve and a bit of luck to make things funs. 🍀
 
-Right now the reward pool will primarily consist of materials.&#x20;
+Right now the reward pool will primarily consist of materials.
 
 ### **Materials**
 
@@ -20,8 +20,8 @@ Every month the total value of materials that are airdropped will be determined 
 
 ### _Collaborations_
 
-Being part of the biggest community hub on the Internet Computer, we are regularly collaborating with other projects on the IC, most of them like giving away NFTs. **Top ranked players will get more chance to win these limited airdrops.**&#x20;
+Being part of the biggest community hub on the Internet Computer, we are regularly collaborating with other projects on the IC, most of them like giving away NFTs. **Top ranked players will get more chance to win these limited airdrops.**
 
 Here are some of the projects we collaborated with in the past; more is to come.
 
-![Finterest](../.gitbook/assets/finterest.png) ![Internet Astronaut](<../.gitbook/assets/ia (2).png>) ![Impossible things](<../.gitbook/assets/impossible (2).jpeg>) ![Plethora](<../.gitbook/assets/PXa4IWA0\_400x400 (1).jpeg>)
+![Finterest](../.gitbook/assets/finterest.png) ![Internet Astronaut](<../.gitbook/assets/ia (2).png>) ![Impossible things](<../.gitbook/assets/impossible (2).jpeg>) ![Plethora](<../.gitbook/assets/PXa4IWA0\_400x400 (1) (1).jpeg>)

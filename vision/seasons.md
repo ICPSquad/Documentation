@@ -8,7 +8,7 @@ We want this game to be living and evolving. As life has cycles & seasons, so we
 
 That is why we will be launching multiple seasons with avatarss & accessories from atwork created by multiple artists, highlighting the creative talent from across the Internet Computer artist community!
 
-Each season will also have his own story and a purpose.&#x20;
+Each season will also have his own story and a purpose.
 
 ## Catch them all
 
@@ -32,7 +32,7 @@ Starting with Season 1, Avatars will be mintable in 3 different tiers and having
 * 9 different seasons = 40% boost
 * 10+ different seasons = 45% boost (this is the max)
 
-### **Season 0**&#x20;
+### **Season 0**
 
 #### **Characters & accessories**
 
@@ -42,14 +42,14 @@ These first characters are made with love to be cherished by the early adopters 
 
 **Artist**
 
-![Arun legendary avatar](<../.gitbook/assets/Capture d’écran 2022-06-09 à 08.07.54.png>)
+![Arun legendary avatar](<../.gitbook/assets/Capture d’écran 2022-06-09 à 08.07.54 (1).png>)
 
 Arun caught our attention because he is already known for creating fantastic custom Avatars for a handful of the earliest DFINITY team members and community admins. Out of all the art concepts we collected for review, his work best captured our vision for the Season 0 characters and reflected his excitement for this project. You can find more art by Arun on his Instagram ([@\_arunarts](https://www.instagram.com/\_arunarts/)).
 
-**Purpose**&#x20;
+**Purpose**
 
-The Internet Computer is still an emergent technology. The community is also in its childhood: early contributors are taking on more responsibilities and bonds are being created.&#x20;
+The Internet Computer is still an emergent technology. The community is also in its childhood: early contributors are taking on more responsibilities and bonds are being created.
 
-The main purpose of this season is to create a strong base for the community and test the concept of the game. We know that we won't get everything perfect from the beginning, but we have chosen an experimental approach, as we believe this is where most of the lessons can be learned.&#x20;
+The main purpose of this season is to create a strong base for the community and test the concept of the game. We know that we won't get everything perfect from the beginning, but we have chosen an experimental approach, as we believe this is where most of the lessons can be learned.
 
-On a technical side the season 0 will also match with the MVP (Minimum Viable Product) for the game, and we will be adding more features along with each season. &#x20;
+On a technical side the season 0 will also match with the MVP (Minimum Viable Product) for the game, and we will be adding more features along with each season.
