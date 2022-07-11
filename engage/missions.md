@@ -38,6 +38,12 @@ Only the interactions that happened after the **1th of July 2022** are taken int
 
 😢 In some rare cases, collections are no longer maintained and the event recording system is not working properly. If you ever notice a collection where the latest recorded event is more than 1 month old and doesn't seem to update to new actions, it might be that this collection is no longer maintained. In this case interactions won't be counted.&#x20;
 
+### Delay&#x20;
+
+Checking and recording interactions accros all collections requires a lot of calls to other canisters and takes a lot of ressources and time to be processed.&#x20;
+
+This is why the interactions are only updated **once per day** for each user. If you interact with a collection and wanna complete a mission, you might have to wait up **to 24 hours** before the interaction is counted and you can validate the mission.
+
 ### List of all current missions
 
 * **Cronic supporter**
