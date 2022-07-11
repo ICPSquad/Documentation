@@ -36,7 +36,7 @@ An **interaction** is either a **trade** (sell/buy), a **mint** or a **burn**. *
 
 Only the interactions that happened after the **1th of July 2022** are taken into account**.**
 
-😢 In some rare cases, collections are no longer maintained and the event recording system is not working properly. If you ever notice a collection where the latest recorded event is more than 1 month old and doesn't seem to update to new actions, it might be that this collection is not longer maintained. In this case interactions won't be counted.&#x20;
+😢 In some rare cases, collections are no longer maintained and the event recording system is not working properly. If you ever notice a collection where the latest recorded event is more than 1 month old and doesn't seem to update to new actions, it might be that this collection is no longer maintained. In this case interactions won't be counted.&#x20;
 
 ### List of all current missions
 
