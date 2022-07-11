@@ -26,11 +26,17 @@ For the moment, you can only complete each mission once. You score only will be 
 
 Browsing trough the different missions, you will regularly encounter the term **interaction**.&#x20;
 
-An interaction with a NFT collection is a recorded action that happened between you and the collection.
+An interaction with a NFT collection is a recorded action that happened between you and the collection. The interaction must be recorded and submitted to **CAP**.&#x20;
 
-An **interaction** is either a **trade** (sell/buy), a **mint** or a **burn**. **Transfer** and **approve** are not counted as interaction even if they are recorded to CAP.&#x20;
+If a collection has not integrated CAP, no interaction will be recorded. Most collections on the Internet Computer have integrated with, but it's possible that some are still missing.&#x20;
+
+You can use the official [**CAP** explorer](https://explorer.cap.ooo/) to verify if a collection has integrated with CAP or not.
+
+An **interaction** is either a **trade** (sell/buy), a **mint** or a **burn**. **Transfer** and **approve** are not counted as interaction even if they are recorded.&#x20;
 
 Only the interactions that happened after the **1th of July 2022** are taken into account**.**
+
+😢 In some rare cases, collections are no longer maintained and the event recording system is not working properly. If you ever notice a collection where the latest recorded event is more than 1 month old and doesn't seem to update to new actions, it might be that this collection is not longer maintained. In this case interactions won't be counted.&#x20;
 
 ### List of all current missions
 
