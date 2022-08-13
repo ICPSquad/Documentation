@@ -50,7 +50,7 @@ Please be patient! The current version is still just an MVP (minimum viable prod
 ### Why hasn’t my engagement score updated?
 The leaderboard is refreshed roughly every 1 hour, so you may need to wait that long after completing a mission until you see your updated score.
 
-### _Collaborations_
+## Collaborations
 
 Being part of the biggest community hub on the Internet Computer, we are regularly collaborating with other projects on the IC, most of them like giving away NFTs. **Top ranked players will get more chance to win these limited airdrops.**
 
