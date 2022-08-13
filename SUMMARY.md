@@ -29,4 +29,4 @@
 
 ## Project History
 
-* [📜 August Notes](Project History/August Notes.md)
+* [August Notes](project-history/august-notes.md)
