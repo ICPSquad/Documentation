@@ -29,7 +29,7 @@ The result is that anyone who wore even the most basic accessory was handsomely 
 ### #4 We need to fast-track external rewards
 In short, to prevent/limit a downward spiral in floor prices we need to incentivize users to wear accessories by including ICP rewards and NFTs from other collections in the ecosystem.
 
-## #5 We Need To Clarify & Recalibrate The Daily Engagement Score
+### #5 We Need To Clarify & Recalibrate The Daily Engagement Score
 During July, we enabled a feature to track NFT activity on CAP and automatically add either 0 or 1 Point per day to Avatar holders based on their NFT trading activity. A Principal had to either trade a total volume of at least 1 ICP or trigger a Mint event within the previous 24 hours to qualify for earning 1 Point for that day. Due to the privacy by default nature of the IC, we can only track activity for the 200+ NFT collections which are integrated with both DAB and CAP. 
 
 Unfortunately, we didn’t clearly communicate this with the community or anticipate how few users would to meet these requirements during the entire month. 
