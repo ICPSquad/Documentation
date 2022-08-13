@@ -26,3 +26,7 @@
 
 * [💫 Seasons](vision/seasons.md)
 * [🌱 Roadmap](vision/roadmap.md)
+
+## Project History
+
+* [📜 August Notes](project-history/august-notes.md)
