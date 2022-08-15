@@ -20,7 +20,7 @@ Every month the total value of materials that are airdropped will be determined 
 
 ## Airdrop FAQ
 
-### Why do some players get more prizes than other players who ranked higher on the leaderboard?
+### Why did some players win more dSquad Material NFTs than other players who ranked higher on the leaderboard?
 It's all explained in detail in our [economy design](https://dsquad.gitbook.io/docs/earn/economy-design#leaderboard-and-rewards).
 
 In a nutshell, there is randomization. Think of it as a ongoing raffle ticket system. The odds are weighted by your rank, as in you'd have more raffle tickets the higher you rank, but there's still an element of luck.
