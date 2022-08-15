@@ -41,7 +41,7 @@ However, the unfortunate truth is that overall NTF trading activity on the Inter
 ## Distribution Plan for 3rd Party NFTs
 August will include 25 NFTs from our vault (gained during past collaborations) in the prize pool. We will not do this every month, so be sure to take advantage of these exciting NFT rewards while you can! These NFTs from our 3rd party partners will not be distributed with a randomized drawing like the materials, but rather go directly to the top 25 ranking players on the leaderboard.
 
-If you own an NFT collection and would like to include prizes in an upcoming airdrop, please [reach out to us](https://x3ul6-2aaaa-aaaah-abjda-cai.ic0.app/partners).
+If you own an NFT collection and would like to include prizes in an upcoming airdrop, please [reach out to us](https://x3ul6-2aaaa-aaaah-abjda-cai.raw.ic0.app/partners).
 
 August prizes for top 25 players (floor prices as of 8/13):
 - (1) ICPunk | floor 9.8 ICP
