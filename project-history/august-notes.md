@@ -10,7 +10,7 @@ coverY: 0
 We’ve tried to be upfront about the fact that these initial airdrops (especially the very first one) would be highly experimental. In fact, our dapp attempting to do a lot of things which have never been done before on the IC. We’re doing our best to learn from our early mistakes so that we can kick-start a robust and sustainable gameplay economy.
 
 ### #1 We Need To Communicate Better
-The fact is, with only 5.77% of dSquad Avatar holders scoring more than 0, we should have done a better job reaching out to our community leading up to the MVP launch, and we need to prioritize the automatic tracking of more types of IC activity as quickly as possible. 
+The fact is, with only 5.77% of dSquad Avatar holders scoring more than 0, we should have done a better job reaching out to our community leading up to the MVP (Minimum Viable Product) launch, and we need to prioritize the automatic tracking of more types of IC activity as quickly as possible. 
 
 ### #2 Our Missions Feature Had Bugs
 We ran into serious issues validating Missions for the Mint/Burn events of our own collection. Seb had to completely rebuild our Mission validation feature during July, but there are still some users being affected and we are actively troubleshooting.
