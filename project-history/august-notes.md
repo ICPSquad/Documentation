@@ -59,7 +59,7 @@ Rewards will be distributed to the top 25 players on the leaderboard based on th
 
 Multiple items from the same collection may have different rarities/properties which effect their value but dSquad cannot take on the task of appraising individual NFTs across the ecosystem, so we will distribute items within the same collection based on their mint number (ascending). For example, based on current floor prices we would give out (5) ICPCS to players #3-#7, where the NFT with the lowest mint number would go to player #3, and the NFT with the highest mint number would go to player #7. 
 
-If two players are tied for the same rank on the leaderboard because they have the same combined total of style and engagement points, their position for receiving 3rd party NTFs will be determined by the estimated value of dSquad assets held in their wallets based on current market floor prices.
+If two players are tied for the same rank on the leaderboard because they have the same combined total of style and engagement points, their position for receiving 3rd party NTFs will be determined by the estimated value (floor price * quantity) of dSquad assets held in their wallets based on current market floor prices.
 
 ## Determining the August Material Allocation
 Now that we have data from July, we can use the total number of style points earned in the previous month to help us determine the total number of materials for each upcoming airdrop. This is because style points directly correlate to how many materials were consumed (via decreasing the wear value of accessories) during the previous month.
