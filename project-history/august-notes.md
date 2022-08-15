@@ -39,7 +39,7 @@ Part of this has to do with the limited and inconsistent adoption of DAB and CAP
 However, the unfortunate truth is that overall NTF trading activity on the Internet Computer is still very low.
 
 ## Distribution Plan for 3rd Party NFTs
-From August moving forward we will be including NFTs from our vault (gained during past collaborations) in the monthly prize pools. These will not be randomized like materials, but rather go to the top ranking players on the leaderboard.
+August will include 25 NFTs from our vault (gained during past collaborations) in the prize pool. We will not do this every month, so be sure to take advantage of these exciting NFT rewards while you can! These NFTs from our 3rd party partners will not be distributed with a randomized drawing like the materials, but rather go directly to the top 25 ranking players on the leaderboard.
 
 If you own an NFT collection and would like to include prizes in an upcoming airdrop, please [reach out to us](https://x3ul6-2aaaa-aaaah-abjda-cai.ic0.app/partners).
 
